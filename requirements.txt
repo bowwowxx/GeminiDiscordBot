@@ -1,0 +1,6 @@
+flask
+discord
+google-generativeai
+pyngrok
+Pillow
+python-dotenv
